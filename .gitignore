@@ -3,6 +3,7 @@ lib/
 old
 .vscode
 .idea
+.yarn
 serializr.min.js*
 coverage
 *.log
@@ -11,3 +12,4 @@ test/typescript/ts.js
 test/babel/babel-compiled.js
 .nyc_output
 out
+docs
